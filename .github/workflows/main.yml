@@ -38,4 +38,4 @@ jobs:
           - name: Deploy to Firebase
   # You may pin to the exact commit or the version.
   # uses: lowply/deploy-firebase@2d5ea962add04eb6fe1c17dd1dafffc806bdfe8a
-  uses: lowply/deploy-firebase@v0.0.5
+  #uses: lowply/deploy-firebase@v0.0.5
